@@ -1,0 +1,20 @@
+name: nlp-environment
+channels:
+  - conda-forge
+  - default
+dependencies:
+  - pandas
+  - urllib3
+#  - os
+  - numpy
+#  - re
+  - matplotlib
+#  - collections
+#  - itertools
+  - tqdm
+  - nltk
+  - bs4
+  - scipy
+  - scikit-learn
+  - lxml
+#  - warnings
